@@ -1,0 +1,76 @@
+#website{
+    background-color: #EAEBD0;
+}
+
+.nav-bar{
+    background-color: #DA6C6C;
+}
+.nav-item:hover{
+    background-color: #AF3E3E;
+    border-radius: 6px;
+}
+.nav-link{
+    color: #EAEBD0;
+}
+.nav-link:hover{
+    color: #EAEBD0;
+}
+.nav-link:focus{
+    color: #EAEBD0;
+}
+.active{
+    color: #EAEBD0;
+    background-color: #AF3E3E;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  background-color: #EAEBD0 !important;  /* your new active‑pill bg color */
+  color: #AF3E3E !important;             /* ensure the text stays readable */
+}
+
+.name{
+    color: #AF3E3E;
+}
+.lead{
+    color:#CD5656;
+    list-style: none;
+    padding-left: 0;
+}
+
+.main-button{
+    background-color: #AF3E3E;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.main-button:hover{
+    background-color: #DA6C6C;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.main-button:focus:active {
+    background-color: #AF3E3E;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.secondary-button{
+    background-color: #EAEBD0;
+    color: #AF3E3E;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
+.secondary-button:hover{
+    background-color: #DA6C6C;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: 1px solid #DA6C6C;
+}
+.secondary-button:focus:active{
+    background-color: #EAEBD0;
+    color: #AF3E3E;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
