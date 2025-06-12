@@ -3,10 +3,10 @@
 }
 
 .nav-bar{
-    background-color: #DA6C6C;
+    background-color: #AF3E3E;
 }
 .nav-item:hover{
-    background-color: #AF3E3E;
+    background-color: #DA6C6C;
     border-radius: 6px;
 }
 .nav-link{
@@ -33,7 +33,7 @@
     color: #AF3E3E;
 }
 .lead{
-    color:#CD5656;
+    color:#DA6C6C;
     list-style: none;
     padding-left: 0;
 }
@@ -76,7 +76,7 @@
 }
 
 .list-format{
-    color:#CD5656;
+    color:#DA6C6C;
 }
 .list-format-card{
     color:#EAEBD0;
@@ -86,7 +86,7 @@
 }
 
 .about-card{
-    background-color: #AF3E3E;
+    background-color: #DA6C6C;
     border-radius: 6px;
     border: 1px solid #AF3E3E;
 }
@@ -99,7 +99,7 @@
 
 .main-button-card{
     background-color: #EAEBD0;
-    color: #AF3E3E;
+    color: #DA6C6C;
     border-radius: 6px;
     border: none;
 }
@@ -122,10 +122,10 @@
     border: none;
 }
 .secondary-button-card{
-    background-color: #AF3E3E;
+    background-color: #DA6C6C;
     color: #EAEBD0;
     border-radius: 6px;
-    border: 1px solid #EAEBD0;
+    border: 2px solid #EAEBD0;
 }
 .about-card:hover .secondary-button-card{
     background-color: #EAEBD0;
