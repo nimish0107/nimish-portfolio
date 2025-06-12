@@ -176,3 +176,11 @@
 .project-card:hover .project-text{
     color: #EAEBD0;
 }
+
+.project-card:hover .disabled{
+    color: #EAEBD0 !important;
+}
+
+.disabled{
+    color:#AF3E3E !important;
+}
