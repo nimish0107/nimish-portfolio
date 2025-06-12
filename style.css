@@ -148,3 +148,14 @@
 .contact{
     color: #CD5656;
 }
+
+.contact-card{
+    background-color: #EAEBD0;
+    border-radius: 6px;
+    border: 2px solid #AF3E3E;
+}
+
+.contact-list{
+    color: #CD5656;
+    list-style: none;
+}
