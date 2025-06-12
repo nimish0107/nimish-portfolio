@@ -74,3 +74,74 @@
     border-radius: 6px;
     border: 1px solid #AF3E3E;
 }
+
+.list-format{
+    color:#CD5656;
+}
+.list-format-card{
+    color:#EAEBD0;
+}
+.about-card:hover .list-format-card{
+    color:#AF3E3E;
+}
+
+.about-card{
+    background-color: #AF3E3E;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
+.about-card:hover{
+    background-color: #EAEBD0;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
+
+
+.main-button-card{
+    background-color: #EAEBD0;
+    color: #AF3E3E;
+    border-radius: 6px;
+    border: none;
+}
+.about-card:hover .main-button-card{
+    background-color: #AF3E3E;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.about-card:hover .main-button-card:hover{
+    background-color: #DA6C6C;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.about-card:hover .main-button-card:focus:active {
+    background-color: #AF3E3E;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: none;
+}
+.secondary-button-card{
+    background-color: #AF3E3E;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: 1px solid #EAEBD0;
+}
+.about-card:hover .secondary-button-card{
+    background-color: #EAEBD0;
+    color: #AF3E3E;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
+.about-card:hover .secondary-button-card:hover{
+    background-color: #DA6C6C;
+    color: #EAEBD0;
+    border-radius: 6px;
+    border: 1px solid #DA6C6C;
+}
+.about-card:hover .secondary-button-card:focus:active{
+    background-color: #EAEBD0;
+    color: #AF3E3E;
+    border-radius: 6px;
+    border: 1px solid #AF3E3E;
+}
